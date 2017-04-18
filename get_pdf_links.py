@@ -1,3 +1,6 @@
+# from http://stackoverflow.com/questions/6222911/how-can-i-grab-pdf-links-from-website-with-python-script/6223422#6223422 
+# answer http://stackoverflow.com/a/6223422/2928970
+
 # modules we're using (you'll need to download lxml)
 import lxml.html, urllib2, urlparse, sys
 
